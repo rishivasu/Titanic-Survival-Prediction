@@ -19,9 +19,9 @@ This project is binary classification problem, where the passenger either surviv
   * S - Southampton
 Although we know exactly who survived the Titanic, the project is still useful to apply important concepts in data science and machine learning. So here it is!
 
-Objective: Predict which passenger survived the Titanic (Jack died)
+__Objective:__ Predict which passenger survived the Titanic (Jack died)
 
-Techniques used:
+__Techniques used:__
 
 * Pandas, matplotlib, numpy
 * Scikit-learn
